@@ -44,16 +44,16 @@ var friends = [
   name:"Kim Kardashian",
   photo:"https://www.google.com/imgres?imgurl=https://pbs.twimg.com/profile_images/875432723837362176/j5NOs7Dj_400x400.jpg&imgrefurl=https://twitter.com/kimkardashian&h=400&w=400&tbnid=BT3jZKFF8bm3pM:&tbnh=186&tbnw=186&usg=__6V7s0SihhNWDfCI7cbtb92mAR-c%3D&vet=10ahUKEwjBjPCe4c7ZAhVMEawKHWyZA8EQ_B0I4QEwGw..i&docid=tTTszQb9CH1WeM&itg=1&sa=X&ved=0ahUKEwjBjPCe4c7ZAhVMEawKHWyZA8EQ_B0I4QEwGw",
   scores:[
-      2,
-      1,
-      3,
-      4,
       5,
-      1,
-      2,
-      2,
-      1,
-      1
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
     ]
 }
 ];
